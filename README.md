@@ -11,6 +11,7 @@
   - 🤔 &nbsp; Exploring new technologies and Sketching/Painting as hobbies/side hustles. .
     
 </div> 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
  <a href="https://www.linkedin.com/in/taruvar-mittal-1985241a9/">
    <img align="left" alt="Taruvar Mittal | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
