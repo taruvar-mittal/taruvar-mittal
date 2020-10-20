@@ -21,5 +21,7 @@
     <img align="left" alt="Taruvar Mittal | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
   </a>
 </div>
+<br>
+<br>
 
 ⭐️ From [taruvar-mittal](https://github.com/taruvar-mittal)
