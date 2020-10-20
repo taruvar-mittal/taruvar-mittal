@@ -21,11 +21,6 @@
   <a href="https://www.instagram.com/moodybluebrush/">
     <img align="left" alt="Taruvar Mittal | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
   </a>
-<br>
-<br>
- <a href="https://github.com/taruvar-mittal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taruvar-mittal&layout=compact" />
-</a>
 </div>
 <br>
 <br>
