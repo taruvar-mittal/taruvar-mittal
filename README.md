@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Taruvar Mittal 👋 </h1>
+<h1 align="center">Hey there! I'm Taruvar Mittal <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 <h3 align="center">🚀 Full Stack Developer | Competitive Programmer  🚀</h3>
 <div>
 <div align="left"> 
