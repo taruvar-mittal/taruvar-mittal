@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | Competitive Programmer  🚀</h3>
 <div>
 <div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
+  <h3> 💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me </h3>
 
   - 🎓 &nbsp; IT engineering student at Netaji Subhas University of Technology.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
@@ -28,5 +28,5 @@
 </div>
 <br>
 <br>
----
+
 ⭐️ From [taruvar-mittal](https://github.com/taruvar-mittal)
