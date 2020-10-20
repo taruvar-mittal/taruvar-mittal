@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hey there! I'm Taruvar Mittal 👋 </h1>
+<h3 align="center">🚀 Full Stack Developer | Competitive Programmer  🚀</h3>
+<div>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
 
-<!--
-**taruvar-mittal/taruvar-mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🎓 &nbsp; Studying Information Technology at Netaji Subhas University of Technology.
+  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
+  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - ✍️ &nbsp; Upgrading skills on data structures and algorithms
+  - 🤔 &nbsp; Exploring new technologies and Sketching/Painting as hobbies/side hustles. .
+    
+</div> 
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  <p>
+   <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
+  <p>
+</div> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [taruvar-mittal](https://github.com/taruvar-mittal)
