@@ -2,10 +2,10 @@
 <h3 align="center">🚀 Full Stack Developer | Competitive Programmer  🚀</h3>
 <div>
 <div align="left"> 
-  <h3> 💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me </h3>
+  <h3> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me </h3>
 
   - 🎓 &nbsp; IT engineering student at Netaji Subhas University of Technology.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
+  - 💻 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; Upgrading skills on data structures and algorithms
   - 🤔 &nbsp; I paint and sketch as side hobby. Do checkout my instagram account!
