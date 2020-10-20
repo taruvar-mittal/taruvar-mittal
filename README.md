@@ -24,7 +24,7 @@
 <br>
 <br>
  <a href="https://github.com/taruvar-mittal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaf96&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taruvar-mittal&layout=compact" />
 </a>
 </div>
 <br>
