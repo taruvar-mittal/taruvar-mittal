@@ -17,7 +17,8 @@
   <a href="mailto:mittaltaruvar@gmail.com">
     <img align="left" alt=Taruvar Mittal | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
-   <h4> Checkout my artwork - </h4>
+    <br>                                                                                                                                       
+   <p> Checkout my artwork - </p>
   <a href="https://www.instagram.com/moodybluebrush/">
     <img align="left" alt="Taruvar Mittal | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
   </a>
