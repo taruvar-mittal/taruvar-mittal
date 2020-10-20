@@ -18,7 +18,7 @@
     <img align="left" alt=Taruvar Mittal | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
     <br>                                                                                                                                       
-   <p> Checkout my artwork - </p>
+   <span> Checkout my artwork - </span>
   <a href="https://www.instagram.com/moodybluebrush/">
     <img align="left" alt="Taruvar Mittal | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
   </a>
