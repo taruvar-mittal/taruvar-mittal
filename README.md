@@ -8,7 +8,7 @@
   - 💻 &nbsp; Currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; Upgrading skills on data structures and algorithms
-  - 🤔 &nbsp; I paint and sketch as side hobby. Do checkout my instagram account !!
+  - 🤔 &nbsp; I paint and sketch as side hobby. Do checkout my instagram account !
     
 </div> 
 <br>
